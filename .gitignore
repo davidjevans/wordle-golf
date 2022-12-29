@@ -1,0 +1,11 @@
+# Python artifacts to ignore
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Vim artifacts to ignore
+*.sw*
+
+# Manim artifacts to ignore
+media/
