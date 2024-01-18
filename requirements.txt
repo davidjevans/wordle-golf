@@ -3,3 +3,4 @@ bokeh==3.0.3
 pandas==1.2.4
 manim==0.16.0.post0
 jupyter==1.0.0
+opencv-python
